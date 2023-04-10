@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.pb</groupId>
     <artifactId>swagger</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>v1</version>
     <name>PhoneBook</name>
     <description>SpringBoot starter project for PhoneBook Application</description>
     <properties>
